@@ -5,7 +5,7 @@
     "type": "people",
     "time": 2,
     "numberanimals": 0,
-    "image": "images/2.jpg"
+    "image": "./images/2.jpg"
   },
   {
     "name": "Empty Sign",
