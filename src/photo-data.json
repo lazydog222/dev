@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Mirror",
+    "color": 0,
+    "type": "people",
+    "time": 2,
+    "numberanimals": 0,
+    "image": "images/2.jpg"
+  },
+  {
+    "name": "Empty Sign",
+    "color": 0,
+    "type": "landscape",
+    "time": 3,
+    "numberanimals": 0,
+    "image": "images/3.jpg"
+  },
+  {
+    "name": "Man on Beach",
+    "color": 0,
+    "type": "landscape",
+    "time": 4,
+    "numberanimals": 0,
+    "image": "images/4.jpg"
+  },
+  {
+    "name": "House and Light",
+    "color": 0,
+    "type": "house",
+    "time": 5,
+    "numberanimals": 0,
+    "image": "images/5.jpg"
+  },
+  {
+    "name": "Barking",
+    "color": 0,
+    "type": "animal",
+    "time": 6,
+    "numberanimals": 1,
+    "image": "images/6.jpg"
+  },
+  {
+    "name": "A Place to Live",
+    "color": 0,
+    "type": "house",
+    "time": 7,
+    "numberanimals": 0,
+    "image": "images/7.jpg"
+  },
+  {
+    "name": "Falling Tide",
+    "color": 0,
+    "type": "landscape",
+    "time": 8,
+    "numberanimals": 0,
+    "image": "images/8.jpg"
+  },
+  {
+    "name": "Good Friends",
+    "color": 0,
+    "type": "animal",
+    "time": 9,
+    "numberanimals": 2,
+    "image": "images/9.jpg"
+  },
+  {
+    "name": "Howl",
+    "color": 0,
+    "type": "landscape",
+    "time": 10,
+    "numberanimals": 1,
+    "image": "images/10.jpg"
+  },
+  {
+    "name": "The Road Ahead",
+    "color": 0,
+    "type": "landscape",
+    "time": 11,
+    "numberanimals": 0,
+    "image": "images/11.jpg"
+  },
+  {
+    "name": "Uphill",
+    "color": 0,
+    "type": "people",
+    "time": 12,
+    "numberanimals": 0,
+    "image": "images/12.jpg"
+  },
+  {
+    "name": "Ascent",
+    "color": 0,
+    "type": "landscape",
+    "time": 13,
+    "numberanimals": 0,
+    "image": "images/13.jpg"
+  },
+  {
+    "name": "Morning View",
+    "color": 0,
+    "type": "landscape",
+    "time": 14,
+    "numberanimals": 0,
+    "image": "images/14.jpg"
+  },
+  {
+    "name": "Street Lines",
+    "color": 1,
+    "type": "landscape",
+    "time": 15,
+    "numberanimals": 0,
+    "image": "images/15.jpg"
+  },
+  {
+    "name": "Empty Window",
+    "color": 1,
+    "type": "landscape",
+    "time": 16,
+    "numberanimals": 0,
+    "image": "images/16.jpg"
+  },
+  {
+    "name": "Rest and Chat",
+    "color": 1,
+    "type": "people",
+    "time": 17,
+    "numberanimals": 0,
+    "image": "images/17.jpg"
+  },
+  {
+    "name": "Onwards",
+    "color": 1,
+    "type": "people",
+    "time": 18,
+    "numberanimals": 0,
+    "image": "images/18.jpg"
+  },
+  {
+    "name": "Pole with Hands",
+    "color": 1,
+    "type": "people",
+    "time": 19,
+    "numberanimals": 0,
+    "image": "images/19.jpg"
+  },
+  {
+    "name": "Green and Red",
+    "color": 1,
+    "type": "landscape",
+    "time": 20,
+    "numberanimals": 0,
+    "image": "images/20.jpg"
+  },
+  {
+    "name": "Past the Gate",
+    "color": 1,
+    "type": "house",
+    "time": 21,
+    "numberanimals": 0,
+    "image": "images/21.jpg"
+  },
+  {
+    "name": "Home",
+    "color": 1,
+    "type": "house",
+    "time": 22,
+    "numberanimals": 0,
+    "image": "images/22.jpg"
+  },
+  {
+    "name": "Mirror for Me",
+    "color": 1,
+    "type": "landscape",
+    "time": 23,
+    "numberanimals": 0,
+    "image": "images/23.jpg"
+  },
+  {
+    "name": "Meditation",
+    "color": 1,
+    "type": "portrait",
+    "time": 24,
+    "numberanimals": 0,
+    "image": "images/24.jpg"
+  },
+  {
+    "name": "Hotel",
+    "color": 1,
+    "type": "house",
+    "time": 25,
+    "numberanimals": 0,
+    "image": "images/25.jpg"
+  },
+  {
+    "name": "Forest",
+    "color": 1,
+    "type": "house",
+    "time": 26,
+    "numberanimals": 0,
+    "image": "images/26.jpg"
+  },
+  {
+    "name": "Find the Horse",
+    "color": 1,
+    "type": "landscape",
+    "time": 27,
+    "numberanimals": 1,
+    "image": "images/27.jpg"
+  },
+  {
+    "name": "Light Through The Trees",
+    "color": 1,
+    "type": "landscape",
+    "time": 28,
+    "numberanimals": 0,
+    "image": "images/28.jpg"
+  },
+  {
+    "name": "Recline",
+    "color": 1,
+    "type": "people",
+    "time": 29,
+    "numberanimals": 0,
+    "image": "images/29.jpg"
+  },
+  {
+    "name": "Donuts",
+    "color": 0,
+    "type": "landscape",
+    "time": 30,
+    "numberanimals": 0,
+    "image": "images/30.jpg"
+  },
+  {
+    "name": "Pit Stop",
+    "color": 1,
+    "type": "people",
+    "time": 31,
+    "numberanimals": 0,
+    "image": "images/31.jpg"
+  },
+  {
+    "name": "Face Off",
+    "color": 1,
+    "type": "animal",
+    "time": 32,
+    "numberanimals": 2,
+    "image": "images/32.jpg"
+  },
+  {
+    "name": "It's Ok",
+    "color": 1,
+    "type": "people",
+    "time": 33,
+    "numberanimals": 0,
+    "image": "images/33.jpg"
+  },
+  {
+    "name": "The Bikers",
+    "color": 1,
+    "type": "people",
+    "time": 34,
+    "numberanimals": 0,
+    "image": "images/34.jpg"
+  },
+  {
+    "name": "The Biker",
+    "color": 1,
+    "type": "people",
+    "time": 35,
+    "numberanimals": 0,
+    "image": "images/35.jpg"
+  },
+  {
+    "name": "Keep Walking",
+    "color": 0,
+    "type": "house",
+    "time": 35,
+    "numberanimals": 0,
+    "image": "images/35a.jpg"
+  },
+  {
+    "name": "The Breeze",
+    "color": 0,
+    "type": "landscape",
+    "time": 1,
+    "numberanimals": 0,
+    "image": "images/1.jpg"
+  },
+  {
+    "name": "Steps",
+    "color": 0,
+    "type": "people",
+    "time": 36,
+    "numberanimals": 0,
+    "image": "images/36.jpg"
+  },
+  {
+    "name": "Long Way Coming",
+    "color": 0,
+    "type": "landscape",
+    "time": 37,
+    "numberanimals": 0,
+    "image": "images/37.jpg"
+  },
+  {
+    "name": "Look Back",
+    "color": 0,
+    "type": "animal",
+    "time": 38,
+    "numberanimals": 1,
+    "image": "images/38.jpg"
+  },
+  {
+    "name": "Hound",
+    "color": 0,
+    "type": "people",
+    "time": 39,
+    "numberanimals": 0,
+    "image": "images/39.jpg"
+  },
+  {
+    "name": "Ruins",
+    "color": 0,
+    "type": "landscape",
+    "time": 40,
+    "numberanimals": 0,
+    "image": "images/40.jpg"
+  },
+  {
+    "name": "Between the Fence",
+    "color": 0,
+    "type": "animal",
+    "time": 41,
+    "numberanimals": 1,
+    "image": "images/41.jpg"
+  },
+  {
+    "name": "Two Sides",
+    "color": 0,
+    "type": "house",
+    "time": 42,
+    "numberanimals": 0,
+    "image": "images/42.jpg"
+  },
+  {
+    "name": "Natasha",
+    "color": 0,
+    "type": "people",
+    "time": 43,
+    "numberanimals": 0,
+    "image": "images/43.jpg"
+  },
+  {
+    "name": "On the Swing",
+    "color": 0,
+    "type": "people",
+    "time": 44,
+    "numberanimals": 0,
+    "image": "images/44.jpg"
+  },
+  {
+    "name": "Rest at Sunset",
+    "color": 0,
+    "type": "people",
+    "time": 45,
+    "numberanimals": 0,
+    "image": "images/45.jpg"
+  },
+  {
+    "name": "Walking Early",
+    "color": 0,
+    "type": "people",
+    "time": 46,
+    "numberanimals": 0,
+    "image": "images/46.jpg"
+  },
+  {
+    "name": "Creeping",
+    "color": 0,
+    "type": "animal",
+    "time": 47,
+    "numberanimals": 1,
+    "image": "images/47.jpg"
+  },
+  {
+    "name": "The Convent",
+    "color": 0,
+    "type": "house",
+    "time": 48,
+    "numberanimals": 0,
+    "image": "images/48.jpg"
+  },
+  {
+    "name": "On Our Way",
+    "color": 0,
+    "type": "landscape",
+    "time": 49,
+    "numberanimals": 0,
+    "image": "images/49.jpg"
+  },
+  {
+    "name": "Turn Around",
+    "color": 0,
+    "type": "people",
+    "time": 50,
+    "numberanimals": 0,
+    "image": "images/50.jpg"
+  },
+  {
+    "name": "Sky",
+    "color": 0,
+    "type": "house",
+    "time": 51,
+    "numberanimals": 0,
+    "image": "images/51.jpg"
+  },
+  {
+    "name": "Smoke",
+    "color": 0,
+    "type": "landscape",
+    "time": 52,
+    "numberanimals": 0,
+    "image": "images/52.jpg"
+  },
+  {
+    "name": "Snacks",
+    "color": 0,
+    "type": "animal",
+    "time": 53,
+    "numberanimals": 2,
+    "image": "images/53.jpg"
+  },
+  {
+    "name": "Buddies",
+    "color": 0,
+    "type": "animal",
+    "time": 54,
+    "numberanimals": 2,
+    "image": "images/54.jpg"
+  },
+  {
+    "name": "No Sign",
+    "color": 0,
+    "type": "landscape",
+    "time": 54,
+    "numberanimals": 0,
+    "image": "images/54a.jpg"
+  },
+  {
+    "name": "On Guard",
+    "color": 0,
+    "type": "house",
+    "time": 54,
+    "numberanimals": 0,
+    "image": "images/54b.jpg"
+  },
+  {
+    "name": "Dew",
+    "color": 0,
+    "type": "landscape",
+    "time": 55,
+    "numberanimals": 0,
+    "image": "images/55.jpg"
+  },
+  {
+    "name": "Smoke and Tree",
+    "color": 0,
+    "type": "landscape",
+    "time": 56,
+    "numberanimals": 0,
+    "image": "images/56.jpg"
+  },
+  {
+    "name": "No Pedals",
+    "color": 0,
+    "type": "people",
+    "time": 57,
+    "numberanimals": 0,
+    "image": "images/57.jpg"
+  },
+  {
+    "name": "No Wheels",
+    "color": 0,
+    "type": "house",
+    "time": 58,
+    "numberanimals": 0,
+    "image": "images/58.jpg"
+  },
+  {
+    "name": "Passing By",
+    "color": 0,
+    "type": "house",
+    "time": 59,
+    "numberanimals": 0,
+    "image": "images/59.jpg"
+  },
+  {
+    "name": "Quartet",
+    "color": 0,
+    "type": "animal",
+    "time": 60,
+    "numberanimals": 4,
+    "image": "images/60.jpg"
+  },
+  {
+    "name": "Santiago",
+    "color": 0,
+    "type": "house",
+    "time": 61,
+    "numberanimals": 0,
+    "image": "images/61.jpg"
+  },
+  {
+    "name": "Arrival",
+    "color": 0,
+    "type": "people",
+    "time": 62,
+    "numberanimals": 0,
+    "image": "images/62.jpg"
+  },
+  {
+    "name": "Proof",
+    "color": 0,
+    "type": "people",
+    "time": 63,
+    "numberanimals": 0,
+    "image": "images/63.jpg"
+  },
+  {
+    "name": "He Won't Remember This",
+    "color": 0,
+    "type": "people",
+    "time": 64,
+    "numberanimals": 0,
+    "image": "images/64.jpg"
+  },
+  {
+    "name": "Please Take Our Photo",
+    "color": 0,
+    "type": "people",
+    "time": 65,
+    "numberanimals": 0,
+    "image": "images/65.jpg"
+  },
+  {
+    "name": "Recall",
+    "color": 0,
+    "type": "people",
+    "time": 66,
+    "numberanimals": 0,
+    "image": "images/66.jpg"
+  },
+  {
+    "name": "Look Up",
+    "color": 0,
+    "type": "people",
+    "time": 67,
+    "numberanimals": 0,
+    "image": "images/67.jpg"
+  }
+]
