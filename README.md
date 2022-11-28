@@ -15,7 +15,7 @@ I added splashes of red and green to make it more clear (and enjoyable) for the 
 I also used several flexboxes and media queries to ensure that every device can view the website with ease.
 
 ### Organization of Components
-I only set up on main component - the photo component.  The photo component has one state (click) which controls whether
+I only set up one main component - the photo component.  The photo component has one state (click) which controls whether
 it is zoomed in or not. Clicking on the photo when on a laptop or larger screen causes the photo component to get bigger
 for better viewing.
 
